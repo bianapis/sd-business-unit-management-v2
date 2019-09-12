@@ -1,0 +1,15 @@
+{
+  "businessUnitManagementPlanCreateActionReference" : "BUMPCAR760911",
+  "businessUnitManagementPlanInstanceStatus" : "businessUnitManagementPlanInstanceStatus",
+  "businessUnitManagementPlanCreateActionRecord" : {},
+  "businessUnitManagementPlanInstanceRecord" : {
+    "businessUnitTrainingPlan" : "businessUnitTrainingPlan",
+    "businessUnitResourcePlan" : "businessUnitResourcePlan",
+    "businessUnitOperatingSchedule" : "businessUnitOperatingSchedule",
+    "businessUnitManagementPlanPeriod" : "businessUnitManagementPlanPeriod",
+    "businessUnitPerformanceGoals" : "businessUnitPerformanceGoals",
+    "businessUnitUsagePoliciesAndGuidelines" : "businessUnitUsagePoliciesAndGuidelines",
+    "businessUnitOperatingOrganization" : "businessUnitOperatingOrganization"
+  },
+  "businessUnitManagementPlanInstanceReference" : "BUMPIR764880"
+}

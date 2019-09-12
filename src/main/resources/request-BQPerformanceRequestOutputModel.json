@@ -1,0 +1,16 @@
+{
+  "performanceInstanceRecord" : {
+    "businessUnitPerformanceStatistics" : {
+      "businessUnitPerformanceStatisticType" : "businessUnitPerformanceStatisticType",
+      "businessUnitPerformanceStatisticValue" : "businessUnitPerformanceStatisticValue",
+      "businessUnitPerformanceStatisticInterpretation" : "businessUnitPerformanceStatisticInterpretation",
+      "businessUnitPerformanceStatisticRecommendation" : "businessUnitPerformanceStatisticRecommendation"
+    },
+    "businessUnitResourceUtilization" : "businessUnitResourceUtilization",
+    "businessUnitOutputWorkProjections" : "businessUnitOutputWorkProjections"
+  },
+  "performanceRequestActionTaskReference" : "BUMPRATR709528",
+  "performanceRequestActionTaskRecord" : {},
+  "performanceRequestRecordReference" : "PRRR780974",
+  "requestResponseRecord" : {}
+}

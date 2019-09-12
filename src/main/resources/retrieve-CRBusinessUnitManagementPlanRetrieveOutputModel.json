@@ -1,0 +1,24 @@
+{
+  "businessUnitManagementPlanRetrieveActionTaskRecord" : {},
+  "businessUnitManagementPlanInstanceAnalysis" : {
+    "businessUnitManagementPlanInstanceAnalysisReportType" : "businessUnitManagementPlanInstanceAnalysisReportType",
+    "businessUnitManagementPlanInstanceAnalysisData" : "businessUnitManagementPlanInstanceAnalysisData",
+    "businessUnitManagementPlanInstanceAnalysisReport" : {}
+  },
+  "businessUnitManagementPlanInstanceReportRecord" : {
+    "businessUnitManagementPlanInstanceReportType" : "businessUnitManagementPlanInstanceReportType",
+    "businessUnitManagementPlanInstanceReport" : {},
+    "businessUnitManagementPlanInstanceReportData" : "businessUnitManagementPlanInstanceReportData"
+  },
+  "businessUnitManagementPlanRetrieveActionTaskReference" : "BUMPRATR726457",
+  "businessUnitManagementPlanRetrieveActionResponse" : "businessUnitManagementPlanRetrieveActionResponse",
+  "businessUnitManagementPlanInstanceRecord" : {
+    "businessUnitTrainingPlan" : "businessUnitTrainingPlan",
+    "businessUnitResourcePlan" : "businessUnitResourcePlan",
+    "businessUnitOperatingSchedule" : "businessUnitOperatingSchedule",
+    "businessUnitManagementPlanPeriod" : "businessUnitManagementPlanPeriod",
+    "businessUnitPerformanceGoals" : "businessUnitPerformanceGoals",
+    "businessUnitUsagePoliciesAndGuidelines" : "businessUnitUsagePoliciesAndGuidelines",
+    "businessUnitOperatingOrganization" : "businessUnitOperatingOrganization"
+  }
+}

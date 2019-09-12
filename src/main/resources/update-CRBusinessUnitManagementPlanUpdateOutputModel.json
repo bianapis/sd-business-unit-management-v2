@@ -1,0 +1,14 @@
+{
+  "businessUnitManagementPlanUpdateActionTaskReference" : "BUMPUATR788731",
+  "updateResponseRecord" : {},
+  "businessUnitManagementPlanInstanceRecord" : {
+    "businessUnitTrainingPlan" : "businessUnitTrainingPlan",
+    "businessUnitResourcePlan" : "businessUnitResourcePlan",
+    "businessUnitOperatingSchedule" : "businessUnitOperatingSchedule",
+    "businessUnitManagementPlanPeriod" : "businessUnitManagementPlanPeriod",
+    "businessUnitPerformanceGoals" : "businessUnitPerformanceGoals",
+    "businessUnitUsagePoliciesAndGuidelines" : "businessUnitUsagePoliciesAndGuidelines",
+    "businessUnitOperatingOrganization" : "businessUnitOperatingOrganization"
+  },
+  "businessUnitManagementPlanUpdateActionTaskRecord" : {}
+}

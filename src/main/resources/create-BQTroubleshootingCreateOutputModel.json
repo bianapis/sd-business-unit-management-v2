@@ -1,0 +1,19 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "businessUnitProductionIssueRecord" : {},
+    "businessUnitIssueAnalysisAndRecommendedResponse" : "businessUnitIssueAnalysisAndRecommendedResponse"
+  },
+  "troubleshootingInstanceReference" : "TIR714608",
+  "troubleshootingInstanceStatus" : "troubleshootingInstanceStatus",
+  "troubleshootingInitiateActionRecord" : {},
+  "businessUnitManagementPlanInstanceRecord" : {
+    "businessUnitTrainingPlan" : "businessUnitTrainingPlan",
+    "businessUnitResourcePlan" : "businessUnitResourcePlan",
+    "businessUnitOperatingSchedule" : "businessUnitOperatingSchedule",
+    "businessUnitManagementPlanPeriod" : "businessUnitManagementPlanPeriod",
+    "businessUnitPerformanceGoals" : "businessUnitPerformanceGoals",
+    "businessUnitUsagePoliciesAndGuidelines" : "businessUnitUsagePoliciesAndGuidelines",
+    "businessUnitOperatingOrganization" : "businessUnitOperatingOrganization"
+  },
+  "troubleshootingInitiateActionReference" : "TIAR769569"
+}

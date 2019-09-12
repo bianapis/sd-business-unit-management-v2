@@ -1,0 +1,15 @@
+{
+  "performanceInstanceRecord" : {
+    "businessUnitPerformanceStatistics" : {
+      "businessUnitPerformanceStatisticType" : "businessUnitPerformanceStatisticType",
+      "businessUnitPerformanceStatisticValue" : "businessUnitPerformanceStatisticValue",
+      "businessUnitPerformanceStatisticInterpretation" : "businessUnitPerformanceStatisticInterpretation",
+      "businessUnitPerformanceStatisticRecommendation" : "businessUnitPerformanceStatisticRecommendation"
+    },
+    "businessUnitResourceUtilization" : "businessUnitResourceUtilization",
+    "businessUnitOutputWorkProjections" : "businessUnitOutputWorkProjections"
+  },
+  "updateResponseRecord" : {},
+  "performanceUpdateActionTaskReference" : "BUMPUATR725298",
+  "performanceUpdateActionTaskRecord" : {}
+}

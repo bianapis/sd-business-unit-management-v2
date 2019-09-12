@@ -1,0 +1,15 @@
+{
+  "requestRecordReference" : "RRR787903",
+  "businessUnitManagementPlanRequestActionTaskReference" : "BUMPRATR797412",
+  "businessUnitManagementPlanInstanceRecord" : {
+    "businessUnitTrainingPlan" : "businessUnitTrainingPlan",
+    "businessUnitResourcePlan" : "businessUnitResourcePlan",
+    "businessUnitOperatingSchedule" : "businessUnitOperatingSchedule",
+    "businessUnitManagementPlanPeriod" : "businessUnitManagementPlanPeriod",
+    "businessUnitPerformanceGoals" : "businessUnitPerformanceGoals",
+    "businessUnitUsagePoliciesAndGuidelines" : "businessUnitUsagePoliciesAndGuidelines",
+    "businessUnitOperatingOrganization" : "businessUnitOperatingOrganization"
+  },
+  "businessUnitManagementPlanRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

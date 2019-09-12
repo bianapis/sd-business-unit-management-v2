@@ -1,0 +1,27 @@
+{
+  "performanceRetrieveActionTaskReference" : "BUMPRATR763356",
+  "performanceInstanceReport" : {
+    "performanceInstanceReport" : {},
+    "performanceInstanceReportRecord" : {},
+    "performanceInstanceReportParameters" : "performanceInstanceReportParameters",
+    "performanceInstanceReportType" : "performanceInstanceReportType"
+  },
+  "performanceInstanceRecord" : {
+    "businessUnitPerformanceStatistics" : {
+      "businessUnitPerformanceStatisticType" : "businessUnitPerformanceStatisticType",
+      "businessUnitPerformanceStatisticValue" : "businessUnitPerformanceStatisticValue",
+      "businessUnitPerformanceStatisticInterpretation" : "businessUnitPerformanceStatisticInterpretation",
+      "businessUnitPerformanceStatisticRecommendation" : "businessUnitPerformanceStatisticRecommendation"
+    },
+    "businessUnitResourceUtilization" : "businessUnitResourceUtilization",
+    "businessUnitOutputWorkProjections" : "businessUnitOutputWorkProjections"
+  },
+  "performanceInstanceAnalysis" : {
+    "performanceInstanceAnalysisRecord" : {},
+    "performanceInstanceAnalysisParameters" : "performanceInstanceAnalysisParameters",
+    "performanceInstanceAnalysisReportType" : "performanceInstanceAnalysisReportType",
+    "performanceInstanceAnalysisReport" : {}
+  },
+  "performanceRetrieveActionResponse" : "performanceRetrieveActionResponse",
+  "performanceRetrieveActionTaskRecord" : {}
+}
